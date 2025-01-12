@@ -31,8 +31,8 @@ To run the project locally, follow these steps:
    
 4. Set up the database (PostgreSQL) and configure environment variables as needed.
 
-5.Start the application:
-  npm start
+5. Start the application:
+   npm start
 
   
 **Usage**
@@ -47,7 +47,7 @@ We welcome contributions! Please follow these steps to contribute:
 
 *Fork the repository.
 *Create a new branch (git checkout -b feature/YourFeature).
-*Make your changes and commit them (git commit -m 'Add some feature').
+*Make and commit your changes (git commit -m 'Add some feature').
 *Push to the branch (git push origin feature/YourFeature).
 *Open a Pull Request.
 
